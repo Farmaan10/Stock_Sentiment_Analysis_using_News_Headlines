@@ -6,4 +6,5 @@ Project to predict whether the stock price will increase or decrease depending o
 #### Label '1':
               Positive News and Stock Price might increase the next day.
 I have used the Random Forest Classifier and Bag of Words.
-The prepared model gives a score of 85.18%.
+The prepared model gives a score of 85.45%.
+With better dataset, this can be improved much more.
