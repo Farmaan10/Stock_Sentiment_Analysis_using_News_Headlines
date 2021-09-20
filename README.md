@@ -5,3 +5,4 @@ Project to predict whether the stock price will increase or decrease depending o
               Negative News and Stock Price might decrease the next day.
 #### Label '1':
               Positive News and Stock Price might increase the next day.
+I have used the Random Forest Classifier and Bag of Words
